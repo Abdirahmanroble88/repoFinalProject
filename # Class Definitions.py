@@ -15,7 +15,6 @@ class Doctor:
                 f"{self.specialization:<15}{self.working_time:<10}"      #that indicated Number of character it whole
                 f"{self.qualification:<20}{self.room_number}")
 
-
 #A class that whole Doctors for managing a list of doctors
 class DoctorManager:
     def __init__(self):
